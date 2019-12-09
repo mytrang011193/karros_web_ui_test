@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Component Tests" verbose="2" annotations="JDK">
+  <test name="ui-test" preserve-order="true" >
+    <classes>
+      <class name="karros_test.web_ui_test.UITest" />
+    </classes>
+  </test>
+</suite>
