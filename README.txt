@@ -1,4 +1,4 @@
-Guideline to run test script:
+Guide to run test script:
 Setup environment:
 - Install FireFox (since I'm using FirefoxDriver)
 - Install Java (I'm using Java 13.0.1, not sure the older version can execute successfully.)
